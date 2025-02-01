@@ -1,0 +1,3782 @@
+{
+  "nodes": [
+    {
+      "data": {
+        "id": "1",
+        "name": "검은 무덤",
+        "pages": [
+          3
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "treasure": {
+          "07": {
+            "looted": "false",
+            "description": "Random Side Scenario"
+          }
+        },
+        "ex_name": "#1 Black Barrow"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "data": {
+        "id": "2",
+        "name": "무덤 속 은신처",
+        "pages": [
+          4,
+          5
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "67": {
+            "looted": "false",
+            "description": "Gain 10 gold"
+          }
+        },
+        "ex_name": "#2 Barrow Lair"
+      },
+      "position": {
+        "x": 0,
+        "y": 100
+      }
+    },
+    {
+      "data": {
+        "id": "3",
+        "name": "이녹스 야영지",
+        "pages": [
+          5,
+          6
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "65": {
+            "looted": "false",
+            "description": "\"Horned Helm\" design (Item 107)"
+          }
+        },
+        "ex_name": "#3 Inox Encampment"
+      },
+      "position": {
+        "x": -150,
+        "y": 200
+      }
+    },
+    {
+      "data": {
+        "id": "4",
+        "name": "저주받은 자의 묘지",
+        "pages": [
+          7
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "38": {
+            "looted": "false",
+            "description": "\"Ring of Skulls\" design (Item 123)"
+          },
+          "46": {
+            "looted": "false",
+            "description": "Suffer 3 damage, gain POISON"
+          }
+        },
+        "ex_name": "#4 Crypt of the Damned"
+      },
+      "position": {
+        "x": 540,
+        "y": 200
+      }
+    },
+    {
+      "data": {
+        "id": "5",
+        "name": "폐허가 된 묘지",
+        "pages": [
+          8
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "28": {
+            "looted": "false",
+            "description": "Gain 15 gold"
+          },
+          "04": {
+            "looted": "false",
+            "description": "Gain 15 gold"
+          }
+        },
+        "ex_name": "#5 Ruinous Crypt"
+      },
+      "position": {
+        "x": 700,
+        "y": 300
+      }
+    },
+    {
+      "data": {
+        "id": "6",
+        "name": "썩어가는 묘지",
+        "pages": [
+          9,
+          10
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "50": {
+            "looted": "false",
+            "description": "Gain \"Second Skin\" (Item 101)"
+          }
+        },
+        "ex_name": "#6 Decaying Crypt"
+      },
+      "position": {
+        "x": 400,
+        "y": 300
+      }
+    },
+    {
+      "data": {
+        "id": "7",
+        "name": "생명력의 동굴",
+        "pages": [
+          10,
+          11
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#7 Vibrant Grotto"
+      },
+      "position": {
+        "x": 100,
+        "y": 400
+      }
+    },
+    {
+      "data": {
+        "id": "8",
+        "name": "글룸헤이븐 창고",
+        "pages": [
+          12
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "51": {
+            "looted": "false",
+            "description": "Random Side Scenario"
+          }
+        },
+        "ex_name": "#8 Gloomhaven Warehouse"
+      },
+      "position": {
+        "x": 175,
+        "y": 300
+      }
+    },
+    {
+      "data": {
+        "id": "9",
+        "name": "다이아몬드 광산",
+        "pages": [
+          13
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#9 Diamond Mine"
+      },
+      "position": {
+        "x": -750,
+        "y": 300
+      }
+    },
+    {
+      "data": {
+        "id": "11",
+        "name": "글룸헤이븐 광장 A",
+        "pages": [
+          15,
+          16
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "05": {
+            "looted": "false",
+            "description": "Gain \"Chainmail\" (Item 0423)"
+          }
+        },
+        "ex_name": "#11 Gloomhaven Square A"
+      },
+      "position": {
+        "x": -850,
+        "y": 400
+      }
+    },
+    {
+      "data": {
+        "id": "12",
+        "name": "글룸헤이븐 광장 B",
+        "pages": [
+          16,
+          17
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "34": {
+            "looted": "false",
+            "description": "Gain \"Amulet of Life\" (Item 024)"
+          }
+        },
+        "ex_name": "#12 Gloomhaven Square B"
+      },
+      "position": {
+        "x": -600,
+        "y": 400
+      }
+    },
+    {
+      "data": {
+        "id": "10",
+        "name": "원소력의 차원",
+        "pages": [
+          14
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "11": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#10 Plane of Elemental Power"
+      },
+      "position": {
+        "x": 700,
+        "y": 700
+      }
+    },
+    {
+      "data": {
+        "id": "13",
+        "name": "선지자의 신전",
+        "pages": [
+          18
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "10": {
+            "looted": "false",
+            "description": "Gain 10 experience"
+          }
+        },
+        "ex_name": "#13 Temple of the Seer"
+      },
+      "position": {
+        "x": -86,
+        "y": 328
+      }
+    },
+    {
+      "data": {
+        "id": "14",
+        "name": "얼어붙은 동굴",
+        "pages": [
+          19,
+          20
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "26": {
+            "looted": "false",
+            "description": "Gain 20 gold"
+          }
+        },
+        "ex_name": "#14 Frozen Hollow"
+      },
+      "position": {
+        "x": 200,
+        "y": 700
+      }
+    },
+    {
+      "data": {
+        "id": "19",
+        "name": "망각된 묘지",
+        "pages": [
+          25,
+          26
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "17": {
+            "looted": "false",
+            "description": "Gain 20 gold"
+          }
+        },
+        "ex_name": "#19 Forgotten Crypt"
+      },
+      "position": {
+        "x": 450,
+        "y": 700
+      }
+    },
+    {
+      "data": {
+        "id": "27",
+        "name": "폐허 속 균열",
+        "pages": [
+          37
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#27 Ruinous Rift"
+      },
+      "position": {
+        "x": 450,
+        "y": 790
+      }
+    },
+    {
+      "data": {
+        "id": "21",
+        "name": "지옥의 왕좌",
+        "pages": [
+          28,
+          29
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "15": {
+            "looted": "false",
+            "description": "Gain \"Pendant of Dark Pacts\" (Item 045)"
+          }
+        },
+        "ex_name": "#21 Infernal Throne"
+      },
+      "position": {
+        "x": 629,
+        "y": 790
+      }
+    },
+    {
+      "data": {
+        "id": "22",
+        "name": "Temple of Elements",
+        "pages": [
+          29,
+          30
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "21": {
+            "looted": "false",
+            "description": "Suffer 5 damage"
+          }
+        },
+        "ex_name": "#22 Temple of Elements"
+      },
+      "position": {
+        "x": 769,
+        "y": 872
+      }
+    },
+    {
+      "data": {
+        "id": "20",
+        "name": "강령술사의 성소",
+        "pages": [
+          26,
+          27
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "60": {
+            "looted": "false",
+            "description": "Gain \"Skullbane Axe\" (Item 113)"
+          }
+        },
+        "ex_name": "#20 Necromancer's Sanctum"
+      },
+      "position": {
+        "x": 93,
+        "y": 560
+      }
+    },
+    {
+      "data": {
+        "id": "28",
+        "name": "교회 의례실",
+        "pages": [
+          38
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "32": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#28 Outer Ritual Chamber"
+      },
+      "position": {
+        "x": -322,
+        "y": 515
+      }
+    },
+    {
+      "data": {
+        "id": "29",
+        "name": "암영의 성지",
+        "pages": [
+          39
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "41": {
+            "looted": "false",
+            "description": "Gain \"Black Knife\" (Item 053)"
+          }
+        },
+        "ex_name": "#29 Sanctuary of Gloom"
+      },
+      "position": {
+        "x": -322,
+        "y": 586
+      }
+    },
+    {
+      "data": {
+        "id": "15",
+        "name": "힘의 사원",
+        "pages": [
+          20,
+          21
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#15 Shrine of Strength"
+      },
+      "position": {
+        "x": -188,
+        "y": 460
+      }
+    },
+    {
+      "data": {
+        "id": "17",
+        "name": "잊힌 섬",
+        "pages": [
+          23
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "71": {
+            "looted": "false",
+            "description": "Random Side Scenario"
+          }
+        },
+        "ex_name": "#17 Lost Island"
+      },
+      "position": {
+        "x": -55,
+        "y": 490
+      }
+    },
+    {
+      "data": {
+        "id": "18",
+        "name": "버려진 하수구",
+        "pages": [
+          24
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "63": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#18 Abandoned Sewers"
+      },
+      "position": {
+        "x": -200,
+        "y": 700
+      }
+    },
+    {
+      "data": {
+        "id": "16",
+        "name": "산길",
+        "pages": [
+          22
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "01": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#16 Mountain Pass"
+      },
+      "position": {
+        "x": -730,
+        "y": 680
+      }
+    },
+    {
+      "data": {
+        "id": "24",
+        "name": "메아리의 방",
+        "pages": [
+          32,
+          33
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "70": {
+            "looted": "false",
+            "description": "Random Side Scenario"
+          }
+        },
+        "ex_name": "#24 Echo Chamber"
+      },
+      "position": {
+        "x": -875,
+        "y": 766
+      }
+    },
+    {
+      "data": {
+        "id": "25",
+        "name": "얼음바위 오르막",
+        "pages": [
+          34,
+          35
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "58": {
+            "looted": "false",
+            "description": "Gain \"Drakescale Helm\" (Item 108)"
+          }
+        },
+        "ex_name": "#25 Icecrag Ascent"
+      },
+      "position": {
+        "x": -576,
+        "y": 766
+      }
+    },
+    {
+      "data": {
+        "id": "30",
+        "name": "해저 사원",
+        "pages": [
+          40,
+          41
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#30 Shrine of the Depths"
+      },
+      "position": {
+        "x": -1000,
+        "y": 856
+      }
+    },
+    {
+      "data": {
+        "id": "42",
+        "name": "목소리의 영역",
+        "pages": [
+          56
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "30": {
+            "looted": "false",
+            "description": "Gain 1 checkmark"
+          },
+          "55": {
+            "looted": "false",
+            "description": "Gain 1 checkmark"
+          }
+        },
+        "ex_name": "#42 Realm of the Voice"
+      },
+      "position": {
+        "x": -1000,
+        "y": 948
+      }
+    },
+    {
+      "data": {
+        "id": "32",
+        "name": "쇠락한 숲",
+        "pages": [
+          43
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#32 Decrepit Wood"
+      },
+      "position": {
+        "x": -764,
+        "y": 856
+      }
+    },
+    {
+      "data": {
+        "id": "23",
+        "name": "지하 폐허",
+        "pages": [
+          31,
+          32
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "39": {
+            "looted": "false",
+            "description": "Suffer 5 damage"
+          },
+          "72": {
+            "looted": "false",
+            "description": "\"Fueled Falchion\" design (Item 116)"
+          }
+        },
+        "ex_name": "#23 Deep Ruins"
+      },
+      "position": {
+        "x": -385,
+        "y": 790
+      }
+    },
+    {
+      "data": {
+        "id": "43",
+        "name": "드레이크 둥지",
+        "pages": [
+          57,
+          58
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "35": {
+            "looted": "false",
+            "description": "Gain \"Drakescale Boots\" (Item 098)"
+          }
+        },
+        "ex_name": "#43 Drake Nest"
+      },
+      "position": {
+        "x": -200,
+        "y": 790
+      }
+    },
+    {
+      "data": {
+        "id": "26",
+        "name": "고대 저수조",
+        "pages": [
+          35,
+          36
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "66": {
+            "looted": "false",
+            "description": "Gain \"Volatile Bomb\" (Item 033)"
+          }
+        },
+        "ex_name": "#26 Ancient Cistern"
+      },
+      "position": {
+        "x": -13,
+        "y": 790
+      }
+    },
+    {
+      "data": {
+        "id": "33",
+        "name": "사바스 무기고",
+        "pages": [
+          44
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#33 Savvas Armory"
+      },
+      "position": {
+        "x": -618,
+        "y": 896
+      }
+    },
+    {
+      "data": {
+        "id": "34",
+        "name": "그을린 산꼭대기",
+        "pages": [
+          45
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "23": {
+            "looted": "false",
+            "description": "Gain \"Drakescale Armor\" (Item 103)"
+          }
+        },
+        "ex_name": "#34 Scorched Summit"
+      },
+      "position": {
+        "x": -436,
+        "y": 978
+      }
+    },
+    {
+      "data": {
+        "id": "40",
+        "name": "고대 방어망",
+        "pages": [
+          53,
+          54
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "47": {
+            "looted": "false",
+            "description": "Gain \"Steam Armor\" (Item 104)"
+          }
+        },
+        "ex_name": "#40 Ancient Defense Network"
+      },
+      "position": {
+        "x": -764,
+        "y": 972
+      }
+    },
+    {
+      "data": {
+        "id": "41",
+        "name": "오래된 무덤",
+        "pages": [
+          54,
+          55
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "24": {
+            "looted": "false",
+            "description": "Suffer 5 damage"
+          }
+        },
+        "ex_name": "#41 Timeworn Tomb"
+      },
+      "position": {
+        "x": -764,
+        "y": 1054
+      }
+    },
+    {
+      "data": {
+        "id": "31",
+        "name": "Plane of Night",
+        "pages": [
+          41,
+          42
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "69": {
+            "looted": "false",
+            "description": "Gain \"Robes of Summoning\" (Item 100)"
+          }
+        },
+        "ex_name": "#31 Plane of Night"
+      },
+      "position": {
+        "x": 175,
+        "y": 882
+      }
+    },
+    {
+      "data": {
+        "id": "39",
+        "name": "위험천만한 협곡",
+        "pages": [
+          51,
+          52
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "73": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#39 Treacherous Divide"
+      },
+      "position": {
+        "x": -75,
+        "y": 956
+      }
+    },
+    {
+      "data": {
+        "id": "37",
+        "name": "죽음의 해구",
+        "pages": [
+          49
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "49": {
+            "looted": "false",
+            "description": "New Scenario: Lost Island 17 (K-17)"
+          }
+        },
+        "ex_name": "#37 Doom Trench"
+      },
+      "position": {
+        "x": 175,
+        "y": 956
+      }
+    },
+    {
+      "data": {
+        "id": "38",
+        "name": "노예 수용소",
+        "pages": [
+          50,
+          51
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "29": {
+            "looted": "false",
+            "description": "Gain \"Endurance Footwraps\" (Item 097)"
+          }
+        },
+        "ex_name": "#38 Slave Pens"
+      },
+      "position": {
+        "x": 387,
+        "y": 956
+      }
+    },
+    {
+      "data": {
+        "id": "46",
+        "name": "악몽의 봉우리",
+        "pages": [
+          61
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "48": {
+            "looted": "false",
+            "description": "Gain 30 gold"
+          }
+        },
+        "ex_name": "#46 Nightmare Peak"
+      },
+      "position": {
+        "x": -75,
+        "y": 1036
+      }
+    },
+    {
+      "data": {
+        "id": "47",
+        "name": "보이지 않는 눈의 은신처",
+        "pages": [
+          62
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "18": {
+            "looted": "false",
+            "description": "Gain 15 gold"
+          },
+          "57": {
+            "looted": "false",
+            "description": "Gain 15 gold"
+          }
+        },
+        "ex_name": "#47 Lair of the Unseeing Eye"
+      },
+      "position": {
+        "x": 175,
+        "y": 1036
+      }
+    },
+    {
+      "data": {
+        "id": "48",
+        "name": "그늘진 숲",
+        "pages": [
+          63
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "64": {
+            "looted": "false",
+            "description": "Gain 30 gold"
+          }
+        },
+        "ex_name": "#48 Shadow Weald"
+      },
+      "position": {
+        "x": 387,
+        "y": 1036
+      }
+    },
+    {
+      "data": {
+        "id": "44",
+        "name": "부족 습격 현장",
+        "pages": [
+          58,
+          59
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#44 Tribal Assault"
+      },
+      "position": {
+        "x": 557,
+        "y": 956
+      }
+    },
+    {
+      "data": {
+        "id": "51",
+        "name": "공허",
+        "pages": [
+          66,
+          67
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "56": {
+            "looted": "false",
+            "description": "Gain \"Star Earring\" (Item 069)"
+          }
+        },
+        "ex_name": "#51 The Void"
+      },
+      "position": {
+        "x": 175,
+        "y": 1164
+      }
+    },
+    {
+      "data": {
+        "id": "35",
+        "name": "글룸헤이븐 흉벽 A",
+        "pages": [
+          46,
+          47
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "61": {
+            "looted": "false",
+            "description": "Gain \"Versatile Dagger\" (Item 040)"
+          }
+        },
+        "ex_name": "#35 Gloomhaven Battlements A"
+      },
+      "position": {
+        "x": 731,
+        "y": 1020
+      }
+    },
+    {
+      "data": {
+        "id": "36",
+        "name": "글룸헤이븐 흉벽 B",
+        "pages": [
+          47,
+          48
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "02": {
+            "looted": "false",
+            "description": "Gain \"Tower Shield\" (Item 032)"
+          }
+        },
+        "ex_name": "#36 Gloomhaven Battlements B"
+      },
+      "position": {
+        "x": 921,
+        "y": 990
+      }
+    },
+    {
+      "data": {
+        "id": "45",
+        "name": "반군 습지",
+        "pages": [
+          60
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "74": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#45 Rebel Swamp"
+      },
+      "position": {
+        "x": 731,
+        "y": 1106
+      }
+    },
+    {
+      "data": {
+        "id": "49",
+        "name": "반군 거점",
+        "pages": [
+          64
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "44": {
+            "looted": "false",
+            "description": "Random Side Scenario"
+          }
+        },
+        "ex_name": "#49 Rebel's Stand"
+      },
+      "position": {
+        "x": 675,
+        "y": 1196
+      }
+    },
+    {
+      "data": {
+        "id": "50",
+        "name": "Ghost Forrest",
+        "pages": [
+          65,
+          66
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#50 Ghost Forrest"
+      },
+      "position": {
+        "x": 927,
+        "y": 1196
+      }
+    },
+    {
+      "data": {
+        "id": "52",
+        "name": "유독한 지하실",
+        "pages": [
+          68,
+          69
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#52 Noxious Cellar"
+      },
+      "position": {
+        "x": -1000,
+        "y": 1900
+      }
+    },
+    {
+      "data": {
+        "id": "53",
+        "name": "묘지 지하",
+        "pages": [
+          69,
+          70
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "31": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#53 Crypt Basement"
+      },
+      "position": {
+        "x": -1000,
+        "y": 2000
+      }
+    },
+    {
+      "data": {
+        "id": "54",
+        "name": "얼음 궁전",
+        "pages": [
+          71
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "25": {
+            "looted": "false",
+            "description": "Gain 25 gold"
+          }
+        },
+        "ex_name": "#54 Palace of Ice"
+      },
+      "position": {
+        "x": -1000,
+        "y": 2100
+      }
+    },
+    {
+      "data": {
+        "id": "55",
+        "name": "안개 낀 덤불숲",
+        "pages": [
+          72
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#55 Foggy Thicket"
+      },
+      "position": {
+        "x": -800,
+        "y": 1900
+      }
+    },
+    {
+      "data": {
+        "id": "56",
+        "name": "강도단의 숲",
+        "pages": [
+          73
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "45": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#56 Bandit's Wood"
+      },
+      "position": {
+        "x": -800,
+        "y": 2000
+      }
+    },
+    {
+      "data": {
+        "id": "57",
+        "name": "조사",
+        "pages": [
+          74
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "22": {
+            "looted": "false",
+            "description": "Random Item Design"
+          },
+          "03": {
+            "looted": "false",
+            "description": "Gain \"Splitmail\" (Item 044)"
+          }
+        },
+        "ex_name": "#57 Investigation"
+      },
+      "position": {
+        "x": -600,
+        "y": 1900
+      }
+    },
+    {
+      "data": {
+        "id": "58",
+        "name": "핏빛 오두막",
+        "pages": [
+          75
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#58 Bloody Shack"
+      },
+      "position": {
+        "x": -600,
+        "y": 2000
+      }
+    },
+    {
+      "data": {
+        "id": "59",
+        "name": "망각된 숲",
+        "pages": [
+          76
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#59 Forgotten Grove"
+      },
+      "position": {
+        "x": -400,
+        "y": 1900
+      }
+    },
+    {
+      "data": {
+        "id": "60",
+        "name": "연금술 실험실",
+        "pages": [
+          77
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#60 Alchemy Lab"
+      },
+      "position": {
+        "x": -400,
+        "y": 2000
+      }
+    },
+    {
+      "data": {
+        "id": "61",
+        "name": "사라지는 등대",
+        "pages": [
+          78,
+          79
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#61 Fading Lighthouse"
+      },
+      "position": {
+        "x": -200,
+        "y": 1900
+      }
+    },
+    {
+      "data": {
+        "id": "62",
+        "name": "영혼 구덩이",
+        "pages": [
+          80
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "59": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#62 Pit of Souls"
+      },
+      "position": {
+        "x": -200,
+        "y": 2000
+      }
+    },
+    {
+      "data": {
+        "id": "63",
+        "name": "용암 구덩이",
+        "pages": [
+          81
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "12": {
+            "looted": "false",
+            "description": "Gain \"Magma Wanders\" (Item 099)"
+          }
+        },
+        "ex_name": "#63 Magma Pit"
+      },
+      "position": {
+        "x": 0,
+        "y": 1900
+      }
+    },
+    {
+      "data": {
+        "id": "64",
+        "name": "Under Water Lagoon",
+        "pages": [
+          82
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "09": {
+            "looted": "false",
+            "description": "Gain \"Wave Crest\" (Item 111)"
+          }
+        },
+        "ex_name": "#64 Under Water Lagoon"
+      },
+      "position": {
+        "x": 0,
+        "y": 2000
+      }
+    },
+    {
+      "data": {
+        "id": "65",
+        "name": "유황 광산",
+        "pages": [
+          83,
+          84
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#65 Sulfur Mine"
+      },
+      "position": {
+        "x": 220,
+        "y": 1900
+      }
+    },
+    {
+      "data": {
+        "id": "66",
+        "name": "시계태엽 만",
+        "pages": [
+          84,
+          85
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "16": {
+            "looted": "false",
+            "description": "Gain 10 gold"
+          },
+          "36": {
+            "looted": "false",
+            "description": "\"Rocket Boots\" design (Item 096)"
+          }
+        },
+        "ex_name": "#66 Clockwork Cove"
+      },
+      "position": {
+        "x": 220,
+        "y": 2000
+      }
+    },
+    {
+      "data": {
+        "id": "67",
+        "name": "신비한 서고",
+        "pages": [
+          86
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "14": {
+            "looted": "false",
+            "description": "Gain 10 experience"
+          }
+        },
+        "ex_name": "#67 Arcane Library"
+      },
+      "position": {
+        "x": 425,
+        "y": 1900
+      }
+    },
+    {
+      "data": {
+        "id": "68",
+        "name": "유독한 황야",
+        "pages": [
+          87
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "33": {
+            "looted": "false",
+            "description": "Gain \"Weighted Net\" (Item 019)"
+          }
+        },
+        "ex_name": "#68 Toxic Moor"
+      },
+      "position": {
+        "x": 425,
+        "y": 2000
+      }
+    },
+    {
+      "data": {
+        "id": "69",
+        "name": "불운한 이들의 우물",
+        "pages": [
+          88
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#69 Well of the Unfortunate"
+      },
+      "position": {
+        "x": 650,
+        "y": 1900
+      }
+    },
+    {
+      "data": {
+        "id": "70",
+        "name": "속박의 섬",
+        "pages": [
+          89,
+          90
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "06": {
+            "looted": "false",
+            "description": "Gain \"Hooked Chain\" (Item 039)"
+          }
+        },
+        "ex_name": "#70 Chained Isle"
+      },
+      "position": {
+        "x": 650,
+        "y": 2000
+      }
+    },
+    {
+      "data": {
+        "id": "71",
+        "name": "바람부는 고원",
+        "pages": [
+          90,
+          91
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#71 Windswept Highlands"
+      },
+      "position": {
+        "x": 900,
+        "y": 1900
+      }
+    },
+    {
+      "data": {
+        "id": "72",
+        "name": "점액질 과수원",
+        "pages": [
+          92
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#72 Oozing Grove"
+      },
+      "position": {
+        "x": -1000,
+        "y": 2250
+      }
+    },
+    {
+      "data": {
+        "id": "73",
+        "name": "낙석 고개",
+        "pages": [
+          93
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#73 Rockslide Ridge"
+      },
+      "position": {
+        "x": -1000,
+        "y": 2350
+      }
+    },
+    {
+      "data": {
+        "id": "76",
+        "name": "해로어 군락",
+        "pages": [
+          96,
+          97
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "75": {
+            "looted": "false",
+            "description": "Text needing translation"
+          }
+        },
+        "ex_name": "#76 Harrower Hive"
+      },
+      "position": {
+        "x": -800,
+        "y": 2250
+      }
+    },
+    {
+      "data": {
+        "id": "77",
+        "name": "비밀 금고실",
+        "pages": [
+          97,
+          98
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#77 Vault of Secrets"
+      },
+      "position": {
+        "x": -800,
+        "y": 2350
+      }
+    },
+    {
+      "data": {
+        "id": "74",
+        "name": "상선",
+        "pages": [
+          94
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "20": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#74 Merchant Ship"
+      },
+      "position": {
+        "x": -600,
+        "y": 2250
+      }
+    },
+    {
+      "data": {
+        "id": "75",
+        "name": "잡초가 무성한 무덤",
+        "pages": [
+          95
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "53": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#75 Overgrown Graveyard"
+      },
+      "position": {
+        "x": -600,
+        "y": 2350
+      }
+    },
+    {
+      "data": {
+        "id": "78",
+        "name": "제물 구덩이",
+        "pages": [
+          99
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#78 Sacrifice Pit"
+      },
+      "position": {
+        "x": -400,
+        "y": 2250
+      }
+    },
+    {
+      "data": {
+        "id": "79",
+        "name": "잊힌 신전",
+        "pages": [
+          100,
+          101
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "52": {
+            "looted": "false",
+            "description": "Gain \"Heart of the Betrayer\" (Item 131)"
+          }
+        },
+        "ex_name": "#79 Lost Temple"
+      },
+      "position": {
+        "x": -400,
+        "y": 2350
+      }
+    },
+    {
+      "data": {
+        "id": "81",
+        "name": "일식의 신전",
+        "pages": [
+          103
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "68": {
+            "looted": "false",
+            "description": "Gain \"Helix Ring\" (Item 130)"
+          }
+        },
+        "ex_name": "#81 Temple of the Eclipse"
+      },
+      "position": {
+        "x": -200,
+        "y": 2250
+      }
+    },
+    {
+      "data": {
+        "id": "83",
+        "name": "그늘진 안쪽",
+        "pages": [
+          105
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#83 Shadows Within"
+      },
+      "position": {
+        "x": -200,
+        "y": 2350
+      }
+    },
+    {
+      "data": {
+        "id": "84",
+        "name": "수정 동굴",
+        "pages": [
+          106
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "42": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#84 Crystalline Cave"
+      },
+      "position": {
+        "x": 25,
+        "y": 2250
+      }
+    },
+    {
+      "data": {
+        "id": "86",
+        "name": "곤경에 빠진 마을",
+        "pages": [
+          108,
+          109
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#86 Harried Village"
+      },
+      "position": {
+        "x": 225,
+        "y": 2250
+      }
+    },
+    {
+      "data": {
+        "id": "87",
+        "name": "오염된 만",
+        "pages": [
+          110
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "40": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#87 Corrupted Cove"
+      },
+      "position": {
+        "x": 225,
+        "y": 2350
+      }
+    },
+    {
+      "data": {
+        "id": "88",
+        "name": "물의 차원",
+        "pages": [
+          111
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "37": {
+            "looted": "false",
+            "description": "Gain 1 checkmark"
+          },
+          "08": {
+            "looted": "false",
+            "description": "Gain 1 checkmark"
+          }
+        },
+        "ex_name": "#88 Plane of Water"
+      },
+      "position": {
+        "x": 25,
+        "y": 2350
+      }
+    },
+    {
+      "data": {
+        "id": "89",
+        "name": "조직 은신처",
+        "pages": [
+          112
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "13": {
+            "looted": "false",
+            "description": "Suffer 5 damage, gain POISON and WOUND"
+          },
+          "27": {
+            "looted": "false",
+            "description": "Gain \"Orb of Twilight\" (Item 122)"
+          },
+          "43": {
+            "looted": "false",
+            "description": "Suffer 5 damage, gain POISON and WOUND"
+          }
+        },
+        "ex_name": "#89 Syndicate Hideout"
+      },
+      "position": {
+        "x": 425,
+        "y": 2250
+      }
+    },
+    {
+      "data": {
+        "id": "91",
+        "name": "야생의 난전",
+        "pages": [
+          114
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#91 Wild Melee"
+      },
+      "position": {
+        "x": 425,
+        "y": 2350
+      }
+    },
+    {
+      "data": {
+        "id": "92",
+        "name": "뒷골목 난투",
+        "pages": [
+          115
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#92 Back Alley Brawl"
+      },
+      "position": {
+        "x": 625,
+        "y": 2250
+      }
+    },
+    {
+      "data": {
+        "id": "93",
+        "name": "침몰선",
+        "pages": [
+          116
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "54": {
+            "looted": "false",
+            "description": "Gain \"Doomed Compass\" (Item 124)"
+          }
+        },
+        "ex_name": "#93 Sunken Vessel"
+      },
+      "position": {
+        "x": 625,
+        "y": 2350
+      }
+    },
+    {
+      "data": {
+        "id": "94",
+        "name": "버믈링 소굴",
+        "pages": [
+          117
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#94 Vermling Nest"
+      },
+      "position": {
+        "x": 825,
+        "y": 2250
+      }
+    },
+    {
+      "data": {
+        "id": "95",
+        "name": "상환일",
+        "pages": [
+          118,
+          119
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#95 Payment Due"
+      },
+      "position": {
+        "x": 825,
+        "y": 2350
+      }
+    },
+    {
+      "data": {
+        "id": "80",
+        "name": "철야 성채",
+        "pages": [
+          101,
+          102
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#80 Vigil Keep"
+      },
+      "position": {
+        "x": -1000,
+        "y": 3500
+      }
+    },
+    {
+      "data": {
+        "id": "82",
+        "name": "불타는 산",
+        "pages": [
+          104
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "62": {
+            "looted": "false",
+            "description": "Gain \"Helm of the Mountain\" and \"Mountain Hammer\" (Item 110 and 115)"
+          }
+        },
+        "ex_name": "#82 Burning Mountain"
+      },
+      "position": {
+        "x": -800,
+        "y": 3500
+      }
+    },
+    {
+      "data": {
+        "id": "85",
+        "name": "태양 신전",
+        "pages": [
+          107,
+          108
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#85 Sun Temple"
+      },
+      "position": {
+        "x": -600,
+        "y": 3500
+      }
+    },
+    {
+      "data": {
+        "id": "90",
+        "name": "악마의 균열",
+        "pages": [
+          113
+        ],
+        "status": "locked",
+        "notes": "",
+        "treasure": {
+          "19": {
+            "looted": "false",
+            "description": "Random Item Design"
+          }
+        },
+        "ex_name": "#90 Demonic Rift"
+      },
+      "position": {
+        "x": -400,
+        "y": 3500
+      }
+    },
+    {
+      "data": {
+        "id": "96",
+        "name": "Unexpected Visitors",
+        "pages": [
+          "FC1-5",
+          "FC2-3",
+          "FC2-10",
+          "FC2-12",
+          "FC2-14"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "91": {
+            "looted": "false",
+            "description": "Gain 30 gold and Party Achievement: \"Opportunists\" Add City Event 84 to the deck"
+          }
+        },
+        "ex_name": "#96 Unexpected Visitors"
+      },
+      "position": {
+        "x": 175,
+        "y": 1244
+      }
+    },
+    {
+      "data": {
+        "id": "97",
+        "name": "Lore Untold",
+        "pages": [
+          "FC1-6",
+          "FC2-4",
+          "FC2-9",
+          "FC2-15",
+          "FC2-36",
+          "FC2-38"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#97 Lore Untold"
+      },
+      "position": {
+        "x": 175,
+        "y": 1324
+      }
+    },
+    {
+      "data": {
+        "id": "98",
+        "name": "Past in Flames",
+        "pages": [
+          "FC1-7",
+          "FC2-3",
+          "FC2-12",
+          "FC2-19",
+          "FC2-20",
+          "FC2-27"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "79": {
+            "looted": "false",
+            "description": "Gain \"Falcon Figurine\" (Item 157)"
+          }
+        },
+        "ex_name": "#98 Past in Flames"
+      },
+      "position": {
+        "x": -535,
+        "y": 1404
+      }
+    },
+    {
+      "data": {
+        "id": "99",
+        "name": "Aftershocks",
+        "pages": [
+          "FC1-8",
+          "FC2-7",
+          "FC2-10",
+          "FC2-28",
+          "FC2-33"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "95": {
+            "looted": "false",
+            "description": "Gain 25 gold and Party Achievement: \"A Strongbox\" Add City Event  85 to the deck"
+          }
+        },
+        "ex_name": "#99 Aftershocks"
+      },
+      "position": {
+        "x": -60,
+        "y": 1404
+      }
+    },
+    {
+      "data": {
+        "id": "100",
+        "name": "Shifting Gears",
+        "pages": [
+          "FC1-9",
+          "FC2-3",
+          "FC2-6",
+          "FC2-9",
+          "FC2-10",
+          "FC2-13",
+          "FC2-14",
+          "FC2-16",
+          "FC2-18",
+          "FC2-19",
+          "FC2-23",
+          "FC2-24",
+          "FC2-25",
+          "FC2-35",
+          "FC2-36"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "76": {
+            "looted": "false",
+            "description": "Suffer 3 damage, gain WOUND and 10 gold"
+          },
+          "85": {
+            "looted": "false",
+            "description": "Suffer 3 damage, gain POISON and 10 gold"
+          }
+        },
+        "ex_name": "#100 Shifting Gears"
+      },
+      "position": {
+        "x": 410,
+        "y": 1404
+      }
+    },
+    {
+      "data": {
+        "id": "101",
+        "name": "Shrouded Crypt",
+        "pages": [
+          "FC1-10",
+          "FC2-15",
+          "FC2-21",
+          "FC2-22",
+          "FC2-24",
+          "FC2-30",
+          "FC2-39"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "93": {
+            "looted": "false",
+            "description": "Gain \"Scroll of Haste\" (Item 159)"
+          }
+        },
+        "ex_name": "#101 Shrouded Crypt"
+      },
+      "position": {
+        "x": 885,
+        "y": 1404
+      }
+    },
+    {
+      "data": {
+        "id": "102",
+        "name": "Bazaar of Knowledge",
+        "pages": [
+          "FC1-11",
+          "FC2-3",
+          "FC2-5",
+          "FC2-8",
+          "FC2-34",
+          "FC2-36",
+          "FC2-37"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "77": {
+            "looted": "false",
+            "description": "Gain \"Major Cure Potion\" (Item 090)"
+          },
+          "86": {
+            "looted": "false",
+            "description": "Unlock Diviner Solo Scenario \"Forecast of the Inevitable"
+          }
+        },
+        "ex_name": "#102 Bazaar of Knowledge"
+      },
+      "position": {
+        "x": -670,
+        "y": 1484
+      }
+    },
+    {
+      "data": {
+        "id": "103",
+        "name": "Where It Is Needed",
+        "pages": [
+          "FC1-12",
+          "FC2-5",
+          "FC2-19",
+          "FC2-29"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "81": {
+            "looted": "false",
+            "description": "Gain \"Scroll of Haste\" (Item 159) and 10 gold"
+          }
+        },
+        "ex_name": "#103 Where It Is Needed"
+      },
+      "position": {
+        "x": -400,
+        "y": 1484
+      }
+    },
+    {
+      "data": {
+        "id": "104",
+        "name": "A Gaping Would",
+        "pages": [
+          "FC1-13",
+          "FC2-19",
+          "FC2-26",
+          "FC2-28",
+          "FC2-33"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "87": {
+            "looted": "false",
+            "description": "Suffer 2 damage, gain CURSE and 15 gold"
+          }
+        },
+        "ex_name": "#104 A Gaping Would"
+      },
+      "position": {
+        "x": -185,
+        "y": 1484
+      }
+    },
+    {
+      "data": {
+        "id": "105",
+        "name": "Monstrosities of a Cult",
+        "pages": [
+          "FC1-14",
+          "FC2-4",
+          "FC2-11",
+          "FC2-29"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "83": {
+            "looted": "false",
+            "description": "Gain \"Major Power Potion\" (Item 041)"
+          },
+          "88": {
+            "looted": "false",
+            "description": "Gain \"Second Chance Ring\" (Item 070)"
+          }
+        },
+        "ex_name": "#105 Monstrosities of a Cult"
+      },
+      "position": {
+        "x": 65,
+        "y": 1484
+      }
+    },
+    {
+      "data": {
+        "id": "106",
+        "name": "Intricate Work",
+        "pages": [
+          "FC1-15",
+          "FC2-6",
+          "FC2-5",
+          "FC2-7",
+          "FC2-13",
+          "FC2-23",
+          "FC2-29",
+          "FC2-30",
+          "FC2-37",
+          "FC2-39"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#106 Intricate Work"
+      },
+      "position": {
+        "x": 285,
+        "y": 1484
+      }
+    },
+    {
+      "data": {
+        "id": "107",
+        "name": "Mechanical Genius",
+        "pages": [
+          "FC1-16",
+          "FC2-3",
+          "FC2-5",
+          "FC2-7",
+          "FC2-11",
+          "FC2-15",
+          "FC2-17",
+          "FC2-19",
+          "FC2-30",
+          "FC2-31",
+          "FC2-39",
+          "FC2-40"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "78": {
+            "looted": "false",
+            "description": "\"Ancient Bow\" design (Item 157)"
+          },
+          "90": {
+            "looted": "false",
+            "description": "Read section 75 on page 49"
+          }
+        },
+        "ex_name": "#107 Mechanical Genius"
+      },
+      "position": {
+        "x": 535,
+        "y": 1484
+      }
+    },
+    {
+      "data": {
+        "id": "108",
+        "name": "Prologue to the End",
+        "pages": [
+          "FC1-17",
+          "FC2-13",
+          "FC2-16",
+          "FC2-33",
+          "FC2-34",
+          "FC2-36",
+          "FC2-38"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#108 Prologue to the End"
+      },
+      "position": {
+        "x": 750,
+        "y": 1484
+      }
+    },
+    {
+      "data": {
+        "id": "109",
+        "name": "Epilogue of a War",
+        "pages": [
+          "FC1-18",
+          "FC2-20"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "80": {
+            "looted": "false",
+            "description": "Gain 1 check and add Rift Event 19 to the deck"
+          },
+          "94": {
+            "looted": "false",
+            "description": "Gain 1 check and add Rift Event 20 to the deck"
+          }
+        },
+        "ex_name": "#109 Epilogue of a War"
+      },
+      "position": {
+        "x": 1020,
+        "y": 1484
+      }
+    },
+    {
+      "data": {
+        "id": "110",
+        "name": "A Circular Solution",
+        "pages": [
+          "FC1-19",
+          "FC2-19",
+          "FC2-25",
+          "FC2-40",
+          "FC2-41"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "84": {
+            "looted": "false",
+            "description": "Gain \"Mask of Terrors\" (Item 066)"
+          }
+        },
+        "ex_name": "#110 A Circular Solution"
+      },
+      "position": {
+        "x": -535,
+        "y": 1564
+      }
+    },
+    {
+      "data": {
+        "id": "111",
+        "name": "The Shackles Loosen",
+        "pages": [
+          "FC1-20",
+          "FC2-15",
+          "FC2-22",
+          "FC2-23",
+          "FC2-24",
+          "FC2-27",
+          "FC2-30",
+          "FC2-32",
+          "FC2-35",
+          "FC2-39",
+          "FC2-41"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "82": {
+            "looted": "false",
+            "description": "\"Rejuvenation Greaves\" design (Item 158)"
+          }
+        },
+        "ex_name": "#111 The Shackles Loosen"
+      },
+      "position": {
+        "x": -60,
+        "y": 1564
+      }
+    },
+    {
+      "data": {
+        "id": "112",
+        "name": "The Bottom of It",
+        "pages": [
+          "FC1-21",
+          "FC2-23",
+          "FC2-40"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#112 The Bottom of It"
+      },
+      "position": {
+        "x": 410,
+        "y": 1564
+      }
+    },
+    {
+      "data": {
+        "id": "113",
+        "name": "The Lost Thread",
+        "pages": [
+          "FC1-22",
+          "FC2-11",
+          "FC2-20",
+          "FC2-31",
+          "FC2-35",
+          "FC2-37"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#113 The Lost Thread"
+      },
+      "position": {
+        "x": 1020,
+        "y": 1564
+      }
+    },
+    {
+      "data": {
+        "id": "114",
+        "name": "Ink Not Yet Dry",
+        "pages": [
+          "FC1-23",
+          "FC2-7",
+          "FC2-32"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {},
+        "ex_name": "#114 Ink Not Yet Dry"
+      },
+      "position": {
+        "x": 175,
+        "y": 1644
+      }
+    },
+    {
+      "data": {
+        "id": "115",
+        "name": "Future Uncertain",
+        "pages": [
+          "FC1-24",
+          "FC2-8",
+          "FC2-18"
+        ],
+        "status": "hidden",
+        "notes": "",
+        "treasure": {
+          "96": {
+            "looted": "false",
+            "description": "You find an old tome littered with technical drawings and design schematics of a wide array of exotic machines. There is a curious handwritten note inside the front cover:"
+          }
+        },
+        "ex_name": "#115 Future Uncertain"
+      },
+      "position": {
+        "x": 175,
+        "y": 1724
+      }
+    }
+  ],
+  "edges": [
+    {
+      "data": {
+        "source": "1",
+        "target": "2",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "2",
+        "target": "3",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "2",
+        "target": "4",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "3",
+        "target": "8",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "3",
+        "target": "9",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "4",
+        "target": "6",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "4",
+        "target": "5",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "6",
+        "target": "8",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "8",
+        "target": "7",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "8",
+        "target": "13",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "13",
+        "target": "15",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "13",
+        "target": "17",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "13",
+        "target": "20",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "8",
+        "target": "14",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "5",
+        "target": "14",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "5",
+        "target": "19",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "5",
+        "target": "10",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "10",
+        "target": "21",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "7",
+        "target": "20",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "20",
+        "target": "28",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "9",
+        "target": "11",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "11",
+        "target": "16",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "11",
+        "target": "18",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "12",
+        "target": "16",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "9",
+        "target": "12",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "12",
+        "target": "28",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "12",
+        "target": "18",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "28",
+        "target": "29",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "20",
+        "target": "16",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "20",
+        "target": "18",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "18",
+        "target": "23",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "18",
+        "target": "14",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "18",
+        "target": "43",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "18",
+        "target": "26",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "26",
+        "target": "22",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "10",
+        "target": "22",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "22",
+        "target": "35",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "22",
+        "target": "31",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "31",
+        "target": "39",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "31",
+        "target": "37",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "31",
+        "target": "38",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "39",
+        "target": "46",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "46",
+        "target": "51",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "37",
+        "target": "47",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "47",
+        "target": "51",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "38",
+        "target": "48",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "48",
+        "target": "51",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "38",
+        "target": "44",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "31",
+        "target": "43",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "39",
+        "target": "15",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "22",
+        "target": "36",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "35",
+        "target": "45",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "45",
+        "target": "49",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "45",
+        "target": "50",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "57",
+        "target": "58",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "19",
+        "target": "27",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "16",
+        "target": "25",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "25",
+        "target": "33",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "32",
+        "target": "33",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "25",
+        "target": "34",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "16",
+        "target": "24",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "24",
+        "target": "32",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "24",
+        "target": "30",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "30",
+        "target": "42",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "32",
+        "target": "40",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "40",
+        "target": "41",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "86",
+        "target": "87",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "94",
+        "target": "95",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "52",
+        "target": "53",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "53",
+        "target": "54",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "55",
+        "target": "56",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "59",
+        "target": "60",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "61",
+        "target": "62",
+        "type": "linksto"
+      }
+    },
+    {
+      "data": {
+        "source": "8",
+        "target": "3",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "8",
+        "target": "9",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "9",
+        "target": "8",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "11",
+        "target": "12",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "12",
+        "target": "11",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "42",
+        "target": "33",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "33",
+        "target": "34",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "42",
+        "target": "32",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "42",
+        "target": "40",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "42",
+        "target": "41",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "41",
+        "target": "42",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "34",
+        "target": "33",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "27",
+        "target": "10",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "27",
+        "target": "21",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "27",
+        "target": "35",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "27",
+        "target": "36",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "21",
+        "target": "10",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "21",
+        "target": "36",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "21",
+        "target": "35",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "35",
+        "target": "27",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "35",
+        "target": "36",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "35",
+        "target": "31",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "36",
+        "target": "35",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "36",
+        "target": "10",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "36",
+        "target": "21",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "49",
+        "target": "50",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "6",
+        "target": "28",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "8",
+        "target": "20",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "14",
+        "target": "7",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "14",
+        "target": "43",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "14",
+        "target": "31",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "14",
+        "target": "19",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "10",
+        "target": "35",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "10",
+        "target": "36",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "21",
+        "target": "31",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "46",
+        "target": "51",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "47",
+        "target": "51",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "48",
+        "target": "51",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "43",
+        "target": "26",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "43",
+        "target": "37",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "43",
+        "target": "64",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "43",
+        "target": "88",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "23",
+        "target": "26",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "33",
+        "target": "40",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "51",
+        "target": "96",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "96",
+        "target": "97",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "97",
+        "target": "98",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "97",
+        "target": "99",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "97",
+        "target": "100",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "97",
+        "target": "101",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "98",
+        "target": "102",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "98",
+        "target": "103",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "98",
+        "target": "104",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "98",
+        "target": "105",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "98",
+        "target": "106",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "98",
+        "target": "107",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "98",
+        "target": "108",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "98",
+        "target": "109",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "99",
+        "target": "104",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "99",
+        "target": "105",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "99",
+        "target": "102",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "99",
+        "target": "103",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "99",
+        "target": "106",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "99",
+        "target": "107",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "99",
+        "target": "108",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "99",
+        "target": "109",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "100",
+        "target": "106",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "100",
+        "target": "107",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "100",
+        "target": "102",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "100",
+        "target": "103",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "100",
+        "target": "104",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "100",
+        "target": "105",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "100",
+        "target": "108",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "100",
+        "target": "109",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "101",
+        "target": "108",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "101",
+        "target": "109",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "101",
+        "target": "102",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "101",
+        "target": "103",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "101",
+        "target": "104",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "101",
+        "target": "105",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "101",
+        "target": "106",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "101",
+        "target": "107",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "102",
+        "target": "110",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "103",
+        "target": "110",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "104",
+        "target": "111",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "105",
+        "target": "111",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "106",
+        "target": "112",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "106",
+        "target": "112",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "107",
+        "target": "112",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "107",
+        "target": "112",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "109",
+        "target": "113",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "110",
+        "target": "114",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "110",
+        "target": "114",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "111",
+        "target": "114",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "111",
+        "target": "105",
+        "type": "blocks"
+      }
+    },
+    {
+      "data": {
+        "source": "111",
+        "target": "114",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "112",
+        "target": "114",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "112",
+        "target": "114",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "113",
+        "target": "114",
+        "type": "requiredby"
+      }
+    },
+    {
+      "data": {
+        "source": "113",
+        "target": "114",
+        "type": "unlocks"
+      }
+    },
+    {
+      "data": {
+        "source": "114",
+        "target": "115",
+        "type": "unlocks"
+      }
+    }
+  ]
+}
